@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/buildreact-redux/static/css/main.60f3dff1.chunk.css",
+    "main.js": "/buildreact-redux/static/js/main.67f15735.chunk.js",
+    "main.js.map": "/buildreact-redux/static/js/main.67f15735.chunk.js.map",
+    "runtime-main.js": "/buildreact-redux/static/js/runtime-main.d4f6f705.js",
+    "runtime-main.js.map": "/buildreact-redux/static/js/runtime-main.d4f6f705.js.map",
+    "static/js/2.852e9659.chunk.js": "/buildreact-redux/static/js/2.852e9659.chunk.js",
+    "static/js/2.852e9659.chunk.js.map": "/buildreact-redux/static/js/2.852e9659.chunk.js.map",
+    "index.html": "/buildreact-redux/index.html",
+    "precache-manifest.9cad05a4feb87fb177184124a445b7dd.js": "/buildreact-redux/precache-manifest.9cad05a4feb87fb177184124a445b7dd.js",
+    "service-worker.js": "/buildreact-redux/service-worker.js",
+    "static/css/main.60f3dff1.chunk.css.map": "/buildreact-redux/static/css/main.60f3dff1.chunk.css.map",
+    "static/js/2.852e9659.chunk.js.LICENSE.txt": "/buildreact-redux/static/js/2.852e9659.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/buildreact-redux/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4f6f705.js",
+    "static/js/2.852e9659.chunk.js",
+    "static/css/main.60f3dff1.chunk.css",
+    "static/js/main.67f15735.chunk.js"
+  ]
+}
